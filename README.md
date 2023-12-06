@@ -32,7 +32,4 @@ To use this repository:
 
 Feel free to fork this repository and contribute to the project. Please submit a pull request with a clear description of your changes or improvements.
 
-## License
-
-[Add License Information Here]
 
