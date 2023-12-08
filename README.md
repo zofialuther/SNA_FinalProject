@@ -28,6 +28,10 @@ To use this repository:
 2. Open the `experiments.ipynb` notebook in a Jupyter environment to view and run the code.
 3. Explore the CSV files for detailed data analysis and insights.
 
+## Exterior sources
+
+For experiments associated with the Signed Bipartite Graph Neural Network model as proposed by [Huang et. al](https://arxiv.org/abs/2108.09638), see their repository: [GitHub repository](https://github.com/huangjunjie-cs/SBGNN).
+
 ## Contributing
 
 Feel free to fork this repository and contribute to the project. Please submit a pull request with a clear description of your changes or improvements.
